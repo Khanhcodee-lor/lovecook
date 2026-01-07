@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625829640098",
+    "project_id": "love-e3236",
+    "storage_bucket": "love-e3236.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625829640098:android:2544c2ddb87cb5de70a4fb",
+        "android_client_info": {
+          "package_name": "com.example.love_cook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPtfmIO6uihFP26-EjTX6u6qSqYUzYzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
