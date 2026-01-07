@@ -40,22 +40,4 @@ Dự án áp dụng các công nghệ và tiêu chuẩn lập trình hiện đ�
     - ☁️ **Storage:** Lưu trữ hình ảnh món ăn, avatar.
 - **Code Generation:** `Freezed`, `JSON Serializable`, `Riverpod Generator` (Giúp code an toàn, tránh lỗi null).
 
-## 📂 Cấu trúc thư mục (Project Structure)
-
-Source code được tổ chức khoa học theo kiến trúc **Feature-first** để dễ dàng mở rộng:
-
-```text
-lib/
-├── firebase_options.dart      # Config Firebase (Auto-generated)
-├── main.dart                  # Entry point
-└── src/
-    ├── app.dart               # App Config (Theme, Router)
-    ├── core/                  # Tiện ích dùng chung (Constants, Utils)
-    └── features/              # CÁC MODULE TÍNH NĂNG
-        ├── auth/              # Đăng nhập, Đăng ký
-        ├── recipes/           # Quản lý món ăn (Feed, Create, Detail)
-        │   ├── data/          # Repository & Data Sources
-        │   ├── domain/        # Models (Freezed Entities)
-        │   └── presentation/  # UI Screens & Controllers
-        ├── chat/              # Nhắn tin Realtime
-        └── profile/           # Hồ sơ người dùng
+## 📂 Cấu trúc thư mục (Project Structure)(README_STRUCTURE.md): Chi tiết về cách tổ chức source code và các folder chức năng.
