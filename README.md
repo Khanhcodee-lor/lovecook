@@ -40,4 +40,4 @@ Dự án áp dụng các công nghệ và tiêu chuẩn lập trình hiện đ�
     - ☁️ **Storage:** Lưu trữ hình ảnh món ăn, avatar.
 - **Code Generation:** `Freezed`, `JSON Serializable`, `Riverpod Generator` (Giúp code an toàn, tránh lỗi null).
 
-## 📂 Cấu trúc thư mục (Project Structure)(README_STRUCTURE.md): Chi tiết về cách tổ chức source code và các folder chức năng.
+## [**Cấu trúc thư mục (Project Structure)**](README_STRUCTURE.md): Chi tiết về cách tổ chức source code và các folder chức năng.
