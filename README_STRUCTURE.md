@@ -47,7 +47,3 @@ Mỗi thư mục con đại diện cho một tính năng lớn (ví dụ: `auth`
 
 ---
 Tuân thủ cấu trúc này giúp tách biệt rõ ràng giữa UI và Logic, giúp team dễ dàng làm việc song song.
-📖 Tài liệu hướng dẫn
-Để hiểu rõ hơn về cách vận hành và phát triển dự án, vui lòng tham khảo các tài liệu sau:
-
-Cấu trúc thư mục (Project Structure): Chi tiết về cách tổ chức source code và các folder chức năng.
